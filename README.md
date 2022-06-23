@@ -9,7 +9,7 @@ What can Expect
 Right Now Implementation of TCP Connection using C Porgram is Done Here
 it is done using Socket Programing in C Program
 
-For Code Enqery :8893091298
+For Code Enqery :Mail To : developersreejesh@gmail.com
 
 
 #KTU #Network Lab #iccscem
